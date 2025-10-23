@@ -1,1 +1,3 @@
-###Conflictos en git -30 sep
+### Conflictos en Git -1 de Octubre 2025-30 sep
+
+-Alister Vento
