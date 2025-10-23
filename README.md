@@ -1,7 +1,8 @@
 ### Conflictos en Git 
 
--Alister 
+-Alister  Vento
 -Eduardo
 -Franco
 -David
 -Cristhian
+-Steve
